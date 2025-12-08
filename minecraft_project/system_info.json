@@ -1,0 +1,89 @@
+{
+    "timestamp": "2025-11-22 09:01:36",
+    "basic": {
+        "hostname": "DESKTOP-UL7LVGN",
+        "platform": "Windows",
+        "platform_release": "11",
+        "platform_version": "10.0.26100",
+        "architecture": "AMD64",
+        "processor": "Intel64 Family 6 Model 165 Stepping 2, GenuineIntel",
+        "python_version": "3.13.5"
+    },
+    "network": {
+        "hostname": "DESKTOP-UL7LVGN",
+        "fqdn": "DESKTOP-UL7LVGN",
+        "local_ip": "10.165.92.170",
+        "interfaces": {
+            "Ethernet": [],
+            "Ethernet 2": [],
+            "Local Area Connection* 1": [],
+            "Wi-Fi": [],
+            "Loopback Pseudo-Interface 1": []
+        },
+        "mac_addresses": {}
+    },
+    "hardware": {
+        "cpu": {
+            "physical_cores": 4,
+            "total_cores": 8,
+            "max_frequency": "2496.00 MHz",
+            "current_frequency": "2496.00 MHz",
+            "cpu_usage": "12.5%"
+        },
+        "memory": {
+            "total": "7.64 GB",
+            "available": "970.61 MB",
+            "used": "6.69 GB",
+            "percentage": "87.6%"
+        },
+        "disks": [
+            {
+                "device": "C:\\",
+                "mountpoint": "C:\\",
+                "filesystem": "NTFS",
+                "total": "140.17 GB",
+                "used": "122.32 GB",
+                "free": "17.85 GB",
+                "percentage": "87.3%"
+            },
+            {
+                "device": "D:\\",
+                "mountpoint": "D:\\",
+                "filesystem": "NTFS",
+                "total": "97.66 GB",
+                "used": "7.26 GB",
+                "free": "90.40 GB",
+                "percentage": "7.4%"
+            }
+        ],
+        "gpu": "Unable to determine"
+    },
+    "software": {
+        "os": "Windows",
+        "os_version": "10.0.26100",
+        "os_release": "11",
+        "boot_time": "2025-11-21 02:32:01",
+        "uptime": "1 day, 6:29:36",
+        "running_processes": 276,
+        "windows_edition": "Windows 10 Pro",
+        "windows_build": "26100",
+        "antivirus": "Unable to determine"
+    },
+    "user": {
+        "username": "91984",
+        "home_directory": "C:\\Users\\91984",
+        "current_directory": "C:\\Users\\91984\\Downloads\\minecraft_project\\minecraft_project",
+        "environment": {
+            "PATH": "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Python313\\Scripts\\;C:\\Python313\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\nodejs\\;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\Users\\91984\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\91984\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\91984\\AppData\\Roaming\\npm;d:\\Program Files\\JetBrains\\IntelliJ IDEA 2025.2\\bin;C:\\Users\\91984\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\91984\\AppData\\Local\\Programs\\Ollama;C:\\Users\\91984\\Desktop\\Antigravity\\bin;c:\\Users\\91984\\.antigravity\\extensions\\ms-python.debugpy-2025.14.1-win32-x64\\bundled\\scripts\\noConfigScripts",
+            "TEMP": "C:\\Users\\91984\\AppData\\Local\\Temp",
+            "USERPROFILE": "C:\\Users\\91984",
+            "COMPUTERNAME": "DESKTOP-UL7LVGN"
+        },
+        "is_admin": false
+    },
+    "security": {
+        "is_vm": false,
+        "firewall": "Enabled",
+        "debugger_present": false
+    }
+}

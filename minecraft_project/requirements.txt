@@ -1,0 +1,7 @@
+cryptography
+rich
+pynput
+opencv-python
+opencv-contrib-python
+fpdf
+pyinstaller
